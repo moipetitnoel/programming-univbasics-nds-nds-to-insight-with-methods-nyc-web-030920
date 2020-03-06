@@ -30,7 +30,7 @@ end
 # { directorOne => allTheMoneyTheyMade, ... }
 def directors_totals(nds)
   #gross_for_director(nds)
-  result = {"Stephen Spielberg" => 1357566430, #"Russo Brothers" => rus, #"James Cameron" => jam, "Spike Lee" => spi, "Wachowski Siblings" => wac, "Robert Zemeckis" => rob, "Quentin Tarantino" => que, "Martin Scorsese" => mar, "Francis Ford Coppola" => fra
+  result = {"Stephen Spielberg" => 1357566430, "Russo Brothers" => 2281002470, #"James Cameron" => jam, "Spike Lee" => spi, "Wachowski Siblings" => wac, "Robert Zemeckis" => rob, "Quentin Tarantino" => que, "Martin Scorsese" => mar, "Francis Ford Coppola" => fra
   }
   nil
   result
