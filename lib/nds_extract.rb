@@ -30,7 +30,7 @@ end
 # { directorOne => allTheMoneyTheyMade, ... }
 def directors_totals(nds)
   gross_for_director(nds)
-  result = {"Stephen Spielberg" => gross_for_director(nds)}
+  result = {"Stephen Spielberg" => gross_for_director(director_data)}
   
   nil
   result
